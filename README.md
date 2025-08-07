@@ -1,1 +1,1 @@
-# ChatBot using IBM cloud watsonx assistant
+# ChatBot using ibm cloud watsonx assistant
